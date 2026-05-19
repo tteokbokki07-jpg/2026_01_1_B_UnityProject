@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb4048b37fea2854599ff762a80ae1f6, type: 3}
+  m_Name: DialogueDataSO_Blueberry
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueDataSO
+  characterName: "\uBE14\uB8E8\uBCA0\uB9AC\uCE90\uB9AD\uD130"
+  characterImage: {fileID: 21300000, guid: 55aed3022a04e7d4793c96a23bda9508, type: 3}
+  dialogueLines:
+  - "123\u3142\u313C\u3139"
+  - "\u3142456\u3142"
+  - "789\u3147\u3139\u3134"
+  - "0\u3142\u313C\u3139"
